@@ -1,4 +1,18 @@
 {
+   "categories": [
+    {
+      "id": 1,
+      "name": "Punjabi"
+    },
+    {
+      "id": 2,
+      "name": "Chinese"
+    },
+    {
+      "id": 3,
+      "name": "Gujarati"
+    }
+  ],
   "restaurants": [
     {
       "id": 1,
