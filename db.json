@@ -23,7 +23,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+      "category": {
+        "id": 1,
+        "nama": "Punjabi"
+      }
     },
     {
      "id": 2,
@@ -34,7 +38,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+      "category": {
+        "id": 1,
+        "nama": "Punjabi"
+      }
     },
     {
       "id": 3,
@@ -45,7 +53,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+      "category": {
+        "id": 2,
+        "nama": "Chinese"
+      }
     },
     {
       "id": 4,
@@ -56,7 +68,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+      "category": {
+        "id": 2,
+        "nama": "Chinese"
+      }
     },
     {
       "id": 5,
@@ -67,7 +83,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+        "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     },
     {
       "id": 6,
@@ -78,7 +98,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+          "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     },
     {
       "id": 7,
@@ -89,7 +113,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+          "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     },
     {
       "id": 8,
@@ -100,7 +128,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+          "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     },
     {
       "id": 9,
@@ -111,7 +143,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+          "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     },
     {
       "id": 10,
@@ -122,7 +158,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+          "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     },
     {
       "id": 11,
@@ -133,7 +173,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+          "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     },
     {
       "id": 12,
@@ -144,7 +188,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+          "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     },
     {
       "id": 13,
@@ -155,7 +203,11 @@
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average Cost": "₹800 for 2 people",
-      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
+          "category": {
+        "id": 3,
+        "nama": "Gujarati"
+      }
     }
   ],
   "direction":[],
