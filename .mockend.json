@@ -1,1 +1,163 @@
-
+{
+   "categories": [
+    {
+      "id": 1,
+      "name": "Punjabi"
+    },
+    {
+      "id": 2,
+      "name": "Chinese"
+    },
+    {
+      "id": 3,
+      "name": "Gujarati"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+     "id": 2,
+      "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 3,
+      "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 4,
+      "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 5,
+     "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 6,
+      "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 7,
+    "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 8,
+     "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 9,
+     "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 10,
+     "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 11,
+   "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 12,
+      "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    },
+    {
+      "id": 13,
+     "name": "Neelkanth Restaurant",
+      "price": "₹2000",
+      "is_ready": true,
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "pic": "https://iili.io/t2fQG2.png",
+      "cuisine": "Punjabi,Chinese,Gujarati",
+      "average Cost": "₹800 for 2 people",
+      "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
+    }
+  ],
+  "direction":[],
+  "menu":[]
+}
