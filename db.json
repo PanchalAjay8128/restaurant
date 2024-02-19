@@ -144,6 +144,6 @@
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']"
     }
   ],
-  direction=[],
-  menu=[]
+  "direction"=[],
+  "menu"=[]
 }
