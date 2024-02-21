@@ -22,11 +22,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
       "category": {
         "id": 1,
-        "nama": "Punjabi"
+        "name": "Punjabi"
       }
     },
     {
@@ -37,11 +37,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
       "category": {
         "id": 1,
-        "nama": "Punjabi"
+        "name": "Punjabi"
       }
     },
     {
@@ -52,11 +52,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
       "category": {
         "id": 2,
-        "nama": "Chinese"
+        "name": "Chinese"
       }
     },
     {
@@ -67,11 +67,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
       "category": {
         "id": 2,
-        "nama": "Chinese"
+        "name": "Chinese"
       }
     },
     {
@@ -82,11 +82,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
         "category": {
         "id": 3,
-        "nama": "Gujarati"
+        "name": "Gujarati"
       }
     },
     {
@@ -97,11 +97,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
           "category": {
         "id": 3,
-        "nama": "Gujarati"
+        "name": "Gujarati"
       }
     },
     {
@@ -112,11 +112,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
           "category": {
         "id": 3,
-        "nama": "Gujarati"
+        "name": "Gujarati"
       }
     },
     {
@@ -127,11 +127,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
           "category": {
         "id": 3,
-        "nama": "Gujarati"
+        "name": "Gujarati"
       }
     },
     {
@@ -142,11 +142,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
           "category": {
         "id": 3,
-        "nama": "Gujarati"
+        "name": "Gujarati"
       }
     },
     {
@@ -157,7 +157,7 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
           "category": {
         "id": 3,
@@ -172,11 +172,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
           "category": {
         "id": 3,
-        "nama": "Gujarati"
+        "name": "Gujarati"
       }
     },
     {
@@ -187,11 +187,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
           "category": {
         "id": 3,
-        "nama": "Gujarati"
+        "name": "Gujarati"
       }
     },
     {
@@ -202,11 +202,11 @@
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
-      "average Cost": "₹800 for 2 people",
+      "average": "₹800 for 2 people",
       "facilities":"['Air Conditioning','Parking','Card Accepted','Delicious Seating']",
           "category": {
         "id": 3,
-        "nama": "Gujarati"
+        "name": "Gujarati"
       }
     }
   ],
