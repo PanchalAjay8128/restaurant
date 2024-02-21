@@ -17,9 +17,9 @@
     {
       "id": 1,
       "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -32,7 +32,7 @@
     {
      "id": 2,
       "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
       "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
       "pic": "https://iili.io/t2fQG2.png",
@@ -47,9 +47,9 @@
     {
       "id": 3,
       "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -62,9 +62,9 @@
     {
       "id": 4,
       "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -77,9 +77,9 @@
     {
       "id": 5,
      "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -92,9 +92,9 @@
     {
       "id": 6,
       "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -107,9 +107,9 @@
     {
       "id": 7,
     "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -122,9 +122,9 @@
     {
       "id": 8,
      "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -137,9 +137,9 @@
     {
       "id": 9,
      "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -152,9 +152,9 @@
     {
       "id": 10,
      "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -167,9 +167,9 @@
     {
       "id": 11,
    "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -182,9 +182,9 @@
     {
       "id": 12,
       "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
@@ -197,9 +197,9 @@
     {
       "id": 13,
      "name": "Neelkanth Restaurant",
-      "price": "₹2000",
+      "price": 2000,
       "is_ready": true,
-      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana"
+      "address":"Opp.Krushnam Skywalk|Radhanpur Road|Mehsana",
       "pic": "https://iili.io/t2fQG2.png",
       "cuisine": "Punjabi,Chinese,Gujarati",
       "average": "₹800 for 2 people",
